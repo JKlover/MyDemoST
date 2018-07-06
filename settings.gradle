@@ -1,0 +1,1 @@
+include ':app', ':logindemo', ':serachdemo', ':agentwebview', ':gethtml', ':activitylife'
